@@ -49,3 +49,23 @@ The testbench applies different input combinations and verifies the ALU operatio
 
 B.Tech Electronics & Communication Engineering Graduate  
 Aspiring VLSI & Embedded Systems Engineer
+## Simulation Results
+
+The 4-bit ALU was simulated using Icarus Verilog on EDA Playground.
+
+All 8 implemented operations produced the expected outputs.
+
+### Verification Status
+
+✅ Addition — Passed  
+✅ Subtraction — Passed  
+✅ AND — Passed  
+✅ OR — Passed  
+✅ XOR — Passed  
+✅ NOT — Passed  
+✅ Increment — Passed  
+✅ Decrement — Passed
+
+### Simulation Output
+
+![ALU Simulation Result](alu_simulation_result..jpg)
